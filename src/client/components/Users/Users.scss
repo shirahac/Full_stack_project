@@ -1,0 +1,61 @@
+
+.grid_container{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding-left: 50%;
+}
+* {
+  box-sizing: border-box;
+}
+
+.card {
+  font-family: Roboto, Helvetica Neue, Helvetica, Arial, "sans-serif";
+  font-weight: 300;
+  color: darkslateblue;
+  border: 1px solid darkslateblue;
+  width: 300px;
+  height: 400px;
+  margin-right:10px;
+  margin-bottom:10px;
+  border-radius: 5px;
+  //background-color: #262626;
+}
+
+.card_avatar {
+  max-height: 70%;
+  object-fit: contain;
+  object-position: center center;
+  padding: 20px;
+  display: flex;
+  flex-basis: 70%;
+}
+
+.card_info {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-basis: 30%;
+}
+
+.card__name {
+  font-size: 24px;
+}
+
+.card__name::after {
+  content: "";
+  display: block;
+  width: 20%;
+  height: 2px;
+  background-color: #f2d423;
+  margin: 5px 0 3px;
+}
+
+.card_location {
+  font-size: 15px;
+  margin-top: 8px;
+}
+
+.reviews_link{
+  padding-top: 10px;
+  color: #7ed9ff;
+}

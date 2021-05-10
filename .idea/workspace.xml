@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="398bb80f-d2ce-4c6b-b515-6f58d61a782c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1WKhtjz01iBCzqmRueYbGVPMe6H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shira\Desktop\PPL\hotelsReviews\react+node project\src\client\components\Login" />
+      <recent name="C:\Users\shira\Desktop\PPL\hotelsReviews\react+node project\src\client\components" />
+      <recent name="C:\Users\shira\Desktop\PPL\hotelsReviews\react+node project\src\client\components\ViewReviews" />
+      <recent name="C:\Users\shira\Desktop\PPL\hotelsReviews\react+node project\src\client\components\AddReview" />
+      <recent name="C:\Users\shira\Desktop\PPL\hotelsReviews\react+node project\src\client\components\AddHotel" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="dev" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="398bb80f-d2ce-4c6b-b515-6f58d61a782c" name="Default Changelist" comment="" />
+      <created>1578904411225</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578904411225</updated>
+      <workItem from="1578904416081" duration="108000" />
+      <workItem from="1579610721559" duration="2860000" />
+      <workItem from="1579687600487" duration="7000" />
+      <workItem from="1579687677810" duration="5000" />
+      <workItem from="1607454674753" duration="608000" />
+      <workItem from="1607455589814" duration="1185000" />
+      <workItem from="1607515393033" duration="1657000" />
+      <workItem from="1610282736324" duration="1705000" />
+      <workItem from="1610628496755" duration="621000" />
+      <workItem from="1610704776089" duration="6080000" />
+      <workItem from="1610821907524" duration="593000" />
+      <workItem from="1610875389123" duration="2493000" />
+      <workItem from="1610960625697" duration="2231000" />
+      <workItem from="1610975481296" duration="8695000" />
+      <workItem from="1611152833552" duration="3234000" />
+      <workItem from="1611160226732" duration="912000" />
+      <workItem from="1611317139485" duration="5130000" />
+      <workItem from="1611424138967" duration="4813000" />
+      <workItem from="1611431417901" duration="772000" />
+      <workItem from="1611492024742" duration="2388000" />
+      <workItem from="1611771795532" duration="256000" />
+      <workItem from="1611862860811" duration="2798000" />
+      <workItem from="1612175302116" duration="7558000" />
+      <workItem from="1613247748810" duration="40000" />
+      <workItem from="1614586466653" duration="1322000" />
+      <workItem from="1615449783330" duration="2532000" />
+      <workItem from="1618299093696" duration="93000" />
+      <workItem from="1618299682006" duration="28888000" />
+      <workItem from="1618557498052" duration="9094000" />
+      <workItem from="1618683680450" duration="765000" />
+      <workItem from="1618724486827" duration="30401000" />
+      <workItem from="1618809697255" duration="19880000" />
+      <workItem from="1618833426445" duration="15000" />
+      <workItem from="1618833519108" duration="2536000" />
+      <workItem from="1618842431481" duration="4421000" />
+      <workItem from="1618859587972" duration="346000" />
+      <workItem from="1618900099806" duration="10012000" />
+      <workItem from="1618931114774" duration="135000" />
+      <workItem from="1618941727478" duration="2793000" />
+      <workItem from="1618993362612" duration="2563000" />
+      <workItem from="1619075678543" duration="595000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="3" key="#Options" timestamp="1618399117947">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="3" key="#Options/0.0.1280.680@0.0.1280.680" timestamp="1618399117947" />
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1613247784691">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1613247784691" />
+    <state width="1259" height="162" key="GridCell.Tab.0.bottom" timestamp="1618821487409">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1618821487409" />
+    <state width="1259" height="162" key="GridCell.Tab.0.center" timestamp="1618821487409">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1618821487409" />
+    <state width="1259" height="162" key="GridCell.Tab.0.left" timestamp="1618821487408">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1618821487408" />
+    <state width="1259" height="162" key="GridCell.Tab.0.right" timestamp="1618821487409">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1618821487409" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1618564389780">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1618564389780" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1618734911850">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1618734911850" />
+  </component>
+</project>

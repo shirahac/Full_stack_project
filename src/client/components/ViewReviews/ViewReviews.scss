@@ -1,0 +1,184 @@
+//.restaurant-page{
+//	color: #8eaeb7;
+//	text-align: center;
+//    width: auto;
+//    height: 2000px;
+//
+//}
+//
+//.restaurant-name{
+//	color: #8eaeb7;
+//	font-weight: bold;
+//	text-shadow: 1px 1px #663966;
+//	font-size: 100px;
+//	text-decoration: none;
+//	text-transform: none;
+//	margin: 20px;
+//	text-align: center;
+//}
+//
+//.restaurant-loc{
+//	font-size: 40px;
+//	color:  #8eaeb7;
+//	text-align: center;
+//}
+//
+//
+.avg-score-warpper{
+	text-align: center;
+	padding-left: 25%;
+	padding-bottom: 30px;
+
+}
+
+.avg-score{
+	position:relative;
+	top:1px;
+	bottom: 1px;
+	margin-left: 550px;
+	margin-bottom: 5px;
+	padding: 10rem;
+	//margin: 0 auto;
+//	left: 50em;
+}
+
+.checkbox-round{
+	width: 2em;
+	height: 2em;
+	background-color: white;
+	border-radius: 100%;
+	vertical-align: middle;
+	border: 1px solid #ddd;
+	-webkit-appearance: none;
+	outline: none;
+	cursor: pointer;
+	margin: 10px;
+}
+
+.checkbox-round:checked {
+	background-color: #2B547E;
+
+}
+
+.rating{
+	display: inline;
+	text-align: left;
+	//margin: 30px;
+	//padding: 30px;
+	width: 250px;
+}
+
+.topic-label{
+	font-size: 20px;
+}
+
+.review_page{
+	padding-top: 80px;
+	width: 100%;
+	margin-right: 25%;
+	margin-left: 25%;
+	align-items: center;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	min-height: 100%;
+	//color: #8eaeb7;
+	font-size: 20px;
+}
+
+.grid{
+	display: grid;
+	grid-template-columns: auto auto auto auto auto auto auto;
+}
+
+.sort-label{
+	font-size: 20px;
+}
+
+.sort-by-topic{
+	border: 1px solid black;
+	font-family: "Times New Roman", Times, serif;
+
+	position:relative;
+	left: 5px;
+	font-size: 25px;
+	color: black;
+}
+
+.add-filter{
+	box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	background:linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%);
+	background-color:#768d87;
+	border-radius:5px;
+	border:1px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color: #8eaeb7;
+	font-size:15px;
+	font-weight:bold;
+	padding:11px 23px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #2b665e;
+	margin-right: 1000px;
+}
+.add-filter:hover {
+	background:linear-gradient(to bottom, #6c7c7c 5%, #768d87 100%);
+	background-color:#6c7c7c;
+}
+.add-filter:active {
+	position:relative;
+	top:1px;
+}
+
+.topic-label{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 30px;
+	margin-right:10px;
+
+}
+
+.order_by{
+	display: grid;
+	grid-template-columns: auto auto auto;
+	padding-top: 30px;
+
+}
+//
+//.review-topic-warpper{
+//	display: 'flex'
+//}
+//
+//.add-review{
+//	position: absolute;
+//	left: 100px;
+//}
+//
+.user{
+	font-weight: bold;
+	font-size: 30px;
+	text-align: left;
+//	margin-right: 100px;
+}
+
+.date{
+	font-weight: bold;
+	text-align: left;
+	font-size: 30px;
+	//margin-right: 1090px;
+}
+
+.share_icons{
+	display: grid;
+	grid-template-columns: auto auto auto auto;
+}
+
+.share {
+	margin: 3px;
+}
+//
+//.sort-warpper{
+//	position:relative;
+//	left: 5px
+//
+//}

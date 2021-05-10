@@ -1,0 +1,65 @@
+
+.grid_container{
+  margin-top: 30px;
+  padding-left: 50%;
+  padding-top: 100px;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+
+.card {
+  font-family: Roboto, Helvetica Neue, Helvetica, Arial, "sans-serif";
+  font-weight: 300;
+  color: darkslateblue;
+  border: 1px solid darkslateblue;
+  width: 300px;
+  height: 400px;
+  margin-right:10px;
+  margin-bottom:10px;
+  border-radius: 5px;
+  //background-color: #352fb3;
+}
+
+.card_photo {
+  max-height: 70%;
+  width: 295px;
+  object-fit: contain;
+  object-position: center center;
+  padding: 20px;
+  display: flex;
+  flex-basis: 70%;
+}
+
+.card_info {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-basis: 30%;
+}
+
+.card_name {
+  font-size: 24px;
+}
+
+//.card_name::after {
+//  content: "";
+//  display: block;
+//  width: 20%;
+//  height: 2px;
+//  background-color: #f2d423;
+//  margin: 5px 0 3px;
+//}
+
+.card_location {
+  font-size: 15px;
+  margin-top: 8px;
+}
+
+.reviews_link{
+  //color: #7ed9ff;
+}
+
+.add_hotel{
+  padding-left: 70%;
+  font-size: 30px;
+}
